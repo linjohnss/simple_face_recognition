@@ -1,10 +1,10 @@
 # simple_face_recognition
-> A simple face recognition for ROS
+A simple face recognition for ROS
 ## Install face_recognition
 ```shell=
 pip3 install face_recognition
 ```
-![ref.](https://github.com/ageitgey/face_recognition)
+[ref.](https://github.com/ageitgey/face_recognition)
 
 ## Input known image
 ![image](https://user-images.githubusercontent.com/61956056/171125147-612eed3c-7737-42b9-be34-980d9320e920.png)
